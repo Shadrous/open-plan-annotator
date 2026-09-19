@@ -152,3 +152,4 @@ bun run format      # format
 ## License
 
 MIT
+Verified by pve-herdr-agents.
